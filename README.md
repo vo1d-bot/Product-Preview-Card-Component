@@ -26,8 +26,8 @@ A clean and modern product preview card component built with HTML and CSS. The d
 
 ## Links
 
-* Live Site URL: [Vercel](https:)
-* Solution URL: [Github](https:)
+* [Live URL](https://vo1d-bot.github.io/Product-Preview-Card-Component/)
+* Repository: [Github](https://github.com/vo1d-bot/Product-Preview-Card-Component)
 
 ## Built With
 
